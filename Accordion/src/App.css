@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding-top: 0;
+}
+.Accordion {
+  text-align: center;
+}
+.acc-list {
+  display: grid;
+  justify-items: center;
+  gap: 10px;
+  width: 50%;
+  margin: 20px auto;
+}
+.acc-btn {
+  width: 80%;
+  height: 50px;
+  font-size: 1rem;
+  text-align: left;
+  padding-left: 20px;
+  cursor: pointer;
+}
+.acc-content {
+  width: 80%;
+  height: 50px;
+  font-size: 1rem;
+  text-align: left;
+  padding-left: 20px;
+}
